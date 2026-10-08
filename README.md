@@ -12,9 +12,9 @@ Agent Fleet は、Claude Code や Codex などのコーディングエージェ�
 | `docs/start.md` | ログインと初期設定、clone、ワークスペースの環境、一日の終わり |
 | `docs/sessions.md` | セッションの起動・応答・片付け、並行作業、共有 |
 | `docs/code.md` | コミットと push、`af-db`、動かしたアプリの開き方 |
-| `docs/without-docker.md` | Docker 前提のリポジトリを Fleet で立てる試し方（未検証の計画） |
+| `docs/without-docker.md` | Docker 前提のリポジトリを Fleet で立てて画面を開く形と、試した結果 |
 | `docs/personal-config.md` | 手元の Claude Code 環境を Fleet で使って試したこと、Fleet 側の仕組み、自分の使い方、使ってみて感じたこと |
 | `docs/ops/doc-style.md` | このリポの文書の書き方 |
 
 `docs/` の使い方は本家の利用ガイド（`guide/member/`）から抜き出したもので、全文は本家にある。
-`docs/personal-config.md` と `docs/without-docker.md` は、使ってみて確かめたことや試す計画、本家のコードを読んだ結果で、本家のガイドには無い。
+`docs/personal-config.md` と `docs/without-docker.md` は、使ってみて確かめたことや本家のコードを読んだ結果で、本家のガイドには無い。
